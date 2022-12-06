@@ -5,7 +5,7 @@ using UnityEngine;
 public class test1 : MonoBehaviour
 {
 
-    public bool amongUsSus = true;
+    public bool amongUsSus = false;
     // Start is called before the first frame update
     void Start()
     {
